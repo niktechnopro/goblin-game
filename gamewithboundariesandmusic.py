@@ -20,9 +20,6 @@ def music(f, n):
 music (file, -1)
 #end for music function
 
-
-
-
 # 3. Create a screen with a particular size
 # the screen size MUST be a tuple
 screen = {"scr_height": 512, "scr_width": 480}
